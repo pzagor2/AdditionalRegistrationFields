@@ -1,0 +1,10 @@
+﻿Name: AdditionalRegistrationFields
+AntiForgery: enabled
+Author: Zagor
+Website: http://pegaspace.com
+Version: 1.0
+OrchardVersion: 1.0
+Description: Part fields for registration
+Features:
+    AdditionalRegistrationFields:
+        Description: Description for feature AdditionalRegistrationFields.
